@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @sasalele1
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning python
